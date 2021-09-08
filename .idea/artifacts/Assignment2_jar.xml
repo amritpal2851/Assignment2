@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assignment2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment2_jar</output-path>
+    <root id="archive" name="Assignment2.jar">
+      <element id="module-output" name="Assignment2" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Properties" />
+    </root>
+  </artifact>
+</component>
